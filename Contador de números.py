@@ -11,3 +11,5 @@ while(aux != 0):
     aux = aux // 10
     print("El número que queda es: ", aux)
 print("El total de dígitos del número es: ", cont)
+
+#hola
